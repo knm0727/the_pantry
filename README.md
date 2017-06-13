@@ -1,1 +1,3 @@
-# th_[antry
+# the_pantry
+
+GitHub Checkpoint Assignment
